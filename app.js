@@ -30,6 +30,7 @@ app.use(
       "http://localhost:5174", // local admin panel
       "https://gadget-shop-website.netlify.app", // LIVE USER
       "https://gadget-shop-admin.netlify.app",   // LIVE ADMIN
+      "https://gadgets-show.netlify.app"   // new one
     ],
     credentials: true, // 🔥 REQUIRED for cookies
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
